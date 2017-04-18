@@ -1,9 +1,14 @@
-# api documentation for  [consign (v0.1.4)](https://github.com/jarradseers/consign#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-consign.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-consign) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-consign.svg)](https://travis-ci.org/npmdoc/node-npmdoc-consign)
+# npmdoc-consign
+
+#### api documentation for  [consign (v0.1.4)](https://github.com/jarradseers/consign#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-consign.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-consign) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-consign.svg)](https://travis-ci.org/npmdoc/node-npmdoc-consign)
+
 #### Autoload your scripts.
 
-[![NPM](https://nodei.co/npm/consign.png?downloads=true)](https://www.npmjs.com/package/consign)
+[![NPM](https://nodei.co/npm/consign.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/consign)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-consign/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-consign_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-consign/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-consign/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-consign/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-consign/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-consign/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-consign/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Jarrad Seers",
-        "email": "jarrad@seers.me"
+        "name": "Jarrad Seers"
     },
     "bugs": {
         "url": "https://github.com/jarradseers/consign/issues"
@@ -55,13 +59,11 @@
     "main": "index",
     "maintainers": [
         {
-            "name": "jarradseers",
-            "email": "jarrad@jarradseers.com"
+            "name": "jarradseers"
         }
     ],
     "name": "consign",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/jarradseers/consign.git"
@@ -72,16 +74,6 @@
     "version": "0.1.4"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module consign](#apidoc.module.consign)
-
-
-
-# <a name="apidoc.module.consign"></a>[module consign](#apidoc.module.consign)
 
 
 

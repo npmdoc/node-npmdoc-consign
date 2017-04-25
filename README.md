@@ -1,6 +1,6 @@
 # npmdoc-consign
 
-#### api documentation for  [consign (v0.1.4)](https://github.com/jarradseers/consign#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-consign.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-consign) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-consign.svg)](https://travis-ci.org/npmdoc/node-npmdoc-consign)
+#### basic api documentation for  [consign (v0.1.4)](https://github.com/jarradseers/consign#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-consign.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-consign) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-consign.svg)](https://travis-ci.org/npmdoc/node-npmdoc-consign)
 
 #### Autoload your scripts.
 
@@ -71,7 +71,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.1.4"
+    "version": "0.1.4",
+    "bin": {}
 }
 ```
 
